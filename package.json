@@ -17,6 +17,6 @@
     "@types/getos": "^3.0.0",
     "colors": "^1.4.0",
     "getos": "^3.1.1",
-    "systeminformation": "^4.14.8"
+    "systeminformation": "^4.30.5"
   }
 }
